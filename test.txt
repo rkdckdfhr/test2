@@ -1,0 +1,8 @@
+total 96
+drwxr-xr-x   7 kangchangrok  staff    224  4월  9 09:12 .
+drwxr-xr-x  11 kangchangrok  staff    352  4월  9 09:06 ..
+drwxr-xr-x  12 kangchangrok  staff    384  4월  9 09:10 .git
+-rw-r--r--   1 kangchangrok  staff   7370  4월  2 11:27 .gitignore
+-rw-r--r--   1 kangchangrok  staff  35149  4월  2 11:27 LICENSE
+-rw-r--r--   1 kangchangrok  staff     92  4월  2 11:27 README.md
+-rw-r--r--   1 kangchangrok  staff      0  4월  9 09:12 test.txt
