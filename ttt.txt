@@ -1,0 +1,12 @@
+total 128
+drwxr-xr-x  11 kangchangrok  staff    352  4월 16 10:07 .
+drwxr-xr-x  12 kangchangrok  staff    384  4월  9 11:09 ..
+drwxr-xr-x  15 kangchangrok  staff    480  4월 16 10:06 .git
+-rw-r--r--   1 kangchangrok  staff   7370  4월  2 11:27 .gitignore
+-rw-r--r--   1 kangchangrok  staff     83  4월  9 14:07 1.txt
+-rw-r--r--   1 kangchangrok  staff     36  4월  9 10:28 2.txt
+-rw-r--r--   1 kangchangrok  staff    117  4월 11 21:18 3.txt
+-rw-r--r--   1 kangchangrok  staff  35149  4월  2 11:27 LICENSE
+-rw-r--r--   1 kangchangrok  staff    133  4월  9 09:13 README.md
+-rw-r--r--   1 kangchangrok  staff    456  4월 16 10:06 test.txt
+-rw-r--r--   1 kangchangrok  staff      0  4월 16 10:07 ttt.txt
