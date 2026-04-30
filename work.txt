@@ -1,0 +1,8 @@
+total 112
+-rw-r--r--  1 kangchangrok  staff     83  4월 16 10:33 1.txt
+-rw-r--r--  1 kangchangrok  staff     36  4월 16 10:33 2.txt
+-rw-r--r--  1 kangchangrok  staff    117  4월 16 10:33 3.txt
+-rw-r--r--  1 kangchangrok  staff  35149  4월 16 10:33 LICENSE
+-rw-r--r--  1 kangchangrok  staff    133  4월 16 10:33 README.md
+-rw-r--r--  1 kangchangrok  staff    456  4월 16 10:33 test.txt
+-rw-r--r--  1 kangchangrok  staff      0  4월 16 11:11 work.txt
