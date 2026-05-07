@@ -1,0 +1,15 @@
+total 168
+-rw-r--r--  1 kangchangrok  staff    731  4월 18 13:58 0418.txt
+-rw-r--r--  1 kangchangrok  staff     83  4월  9 14:07 1.txt
+-rw-r--r--  1 kangchangrok  staff     36  4월  9 10:28 2.txt
+-rw-r--r--  1 kangchangrok  staff    117  4월 11 21:18 3.txt
+-rw-r--r--  1 kangchangrok  staff  35149  4월  2 11:27 LICENSE
+-rw-r--r--  1 kangchangrok  staff   1103  5월  7 10:22 new.txt
+-rw-r--r--  1 kangchangrok  staff    133  4월  9 09:13 README.md
+-rw-r--r--  1 kangchangrok  staff      0  5월  7 10:23 rebase.txt
+-rw-r--r--  1 kangchangrok  staff     96  5월  7 09:35 s1.txt
+-rw-r--r--  1 kangchangrok  staff    124  5월  7 09:35 s2.txt
+-rw-r--r--  1 kangchangrok  staff    463  4월 30 11:12 test.txt
+-rw-r--r--  1 kangchangrok  staff     64  4월 30 11:12 test2.txt
+-rw-r--r--  1 kangchangrok  staff    711  4월 30 11:25 ttt.txt
+-rw-r--r--  1 kangchangrok  staff    456  4월 30 11:25 work.txt
